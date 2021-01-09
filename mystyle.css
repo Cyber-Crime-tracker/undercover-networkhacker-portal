@@ -1,0 +1,67 @@
+			body{
+				text-align:center;
+
+				
+				}
+				
+			#demo1{
+				margin-top:100px;
+				color:red;
+				}
+			
+			audio{
+				width:700px;
+		
+				
+				}
+				
+			img{
+				width:250px;
+				}
+			h1{
+				
+				font-weight:bold;
+				padding-left:0;
+				padding-right:0;
+				word-spacing:8px;
+				
+				}
+			#demo{
+				
+				width:200px;
+				margin-bottom:20px;
+				
+			}
+			
+			#pass{
+				
+				width:200px;
+				margin-bottom:20px;
+				
+			}
+			
+			.styl{
+				
+			background-color:#d3d3dd;
+			padding:30px 0px;
+			margin:50px 250px 0px 250px;
+			border-radius:10px;
+				
+			}
+			
+			h3{
+				
+				margin-top:0px;
+				color:blue;
+				font-weight:bold;
+				
+				
+				
+			}
+			iframe{
+				
+				border:0px;
+				width:100%;
+				height:100%;
+				
+			}
