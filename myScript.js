@@ -2,7 +2,7 @@ function ss(){
 			var a=document.getElementById("demo").value;
 			var b=document.getElementById("pass").value;
 			if(a=="AP081998" && b=="cyber@1998"){
-				document.getElementById("new").innerHTML="<iframe src=index2.html></iframe>";
+				document.getElementById("new").innerHTML="<iframe src=index3.html></iframe>";
 				
 			
 			}
