@@ -1,5 +1,9 @@
 			body{
 				text-align:center;
+				color:white;
+				background-repeat: no-repeat;
+				background-attachment: fixed;  
+                background-size: cover;
 
 				
 				}
@@ -65,3 +69,37 @@
 				height:100%;
 				
 			}
+			.profile{
+				
+				width:100px;
+				
+				padding-left:100px;
+				
+				
+				
+			}
+			.prf{
+				padding-left:50px;
+			}
+			table{
+				text-align:left;
+				
+				
+				
+			}
+			p{
+				margin-top:0px;
+				margin-bottom:0px;
+				word-spacing:8px;
+			}
+			.algn{
+				background-color:#00dbff4f;
+				margin-left:400px;
+				margin-right:400px;
+				margin-top:100px;
+				padding-top:20px;
+				padding-bottom:20px;
+				
+			}
+			
+			
