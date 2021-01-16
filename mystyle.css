@@ -3,7 +3,7 @@
 				color:white;
 				background-repeat: no-repeat;
 				background-attachment: fixed;  
-                background-size: cover;
+                                background-size: cover;
 
 				
 				}
@@ -48,10 +48,10 @@
 			
 			.styl{
 				
-			background-color:#b9b9ce70;
-			padding:30px 0px;
-			margin:50px 250px 0px 250px;
-			border-radius:10px;
+				background-color:#b9b9ce70;
+				padding:30px 0px;
+				margin:50px 250px 0px 250px;
+				border-radius:10px;
 				
 				
 			}
@@ -62,8 +62,6 @@
 				color:white;
 				font-weight:bold;
 				
-				
-				
 			}
 			iframe{
 				
@@ -73,21 +71,12 @@
 				
 			}
 			.profile{
-				
 				width:100px;
-				
-				
-				
-				
 				
 			}
 			.prf{
 				padding-left:50px;
 			}
-			
-				
-				
-				
 			
 			p{
 				margin-top:0px;
@@ -106,6 +95,7 @@
 				padding-bottom:20px;
 				margin-left:auto;
 				margin-right:auto;
+				width:500px;
 				
 			}
 			
